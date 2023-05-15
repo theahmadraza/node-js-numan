@@ -1,0 +1,17 @@
+{
+  "name": "node-by-noman",
+  "version": "1.0.0",
+  "description": "This is learing Path for Noman",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testing"
+  },
+  "keywords": [
+    "Noman"
+  ],
+  "author": "Noman",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
